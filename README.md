@@ -1,6 +1,6 @@
 👋 Hello there! I'm Yassar Ahmed, a Software Engineer.
 
-https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=790b76117bro7efr2ar8156kfkukxvdae43prkjo2s9bpvhj&ep=v1_gifs_search&rid=200w.gif&ct=g
+![hippo](https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=790b76117bro7efr2ar8156kfkukxvdae43prkjo2s9bpvhj&ep=v1_gifs_search&rid=200w.gif&ct=g)
 
 🧑‍💻 About Me
 
