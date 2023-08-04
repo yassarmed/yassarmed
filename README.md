@@ -1,5 +1,7 @@
 👋 Hello there! I'm Yassar Ahmed, a Software Engineer.
 
+https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=790b76117bro7efr2ar8156kfkukxvdae43prkjo2s9bpvhj&ep=v1_gifs_search&rid=200w.gif&ct=g
+
 🧑‍💻 About Me
 
 I'm a dedicated and enthusiastic software engineer, passionate about writing clean and efficient code. Solving complex problems through programming brings me immense satisfaction, and I thrive on challenges that push my skills to new heights.
