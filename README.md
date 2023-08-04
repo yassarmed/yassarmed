@@ -12,7 +12,7 @@ My favorite technology stack is Ruby on Rails. Its elegant and intuitive design 
 
 🌟 Projects and Achievements
 
-Throughout my career, I've been involved in several exciting projects, from creating e-commerce platforms to building RESTful APIs. I take pride in my ability to work well both independently and as part of a collaborative team, fostering an environment of productivity and open communication.
+Throughout my learning, I've worked on several exciting projects, from creating e-commerce platforms to building RESTful APIs. I take pride in my ability to work well both independently and as part of a collaborative team, fostering an environment of productivity and open communication.
 
 🚀 Let's Code Together
 
